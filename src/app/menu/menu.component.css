@@ -1,0 +1,17 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Signika&display=swap');
+
+*{
+    font-family: 'Signika', sans-serif;
+   
+}
+
+.fs-16{
+
+    font-size: 16pt;
+
+}
+a{
+
+    cursor: pointer;
+}
